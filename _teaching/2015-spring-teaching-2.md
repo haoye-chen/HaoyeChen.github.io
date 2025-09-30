@@ -8,7 +8,7 @@ date: 2025-12-30
 location: "Stockholm, Sweden"
 ---
 
-I am the teaching assistant for the course Research Methodology and Communication Skills from 2022-2026.
+I am the teaching assistant for the course Research Methodology and Communication Skills from 2022 to 2026.
 
 Heading 1
 ======
