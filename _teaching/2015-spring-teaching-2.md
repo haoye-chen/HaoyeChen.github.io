@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "KTH Royal Institute of Technology"
+date: 2025-12-30
+location: "Stockholm, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am the teaching assistant for the course Research Methodology and Communication Skills from 2022-2026.
 
 Heading 1
 ======
