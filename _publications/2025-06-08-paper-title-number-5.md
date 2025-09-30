@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "An Outer-Inner Approximation Method for the Generic Choice-based Optimization Problem"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This paper investigates the detailed-level approximation of choice-based optimization'
+date: 2024-09-03
+venue: 'TRC-30  conference'
+paperurl: 'https://www.diva-portal.org/smash/record.jsf?dswid=4699&pid=diva2%3A1956800'
+citation: 'Chen, H., Kronqvist, J., & Ma, Z. (n.d.). An Outer-Inner Approximation Method for the Generic Choice-based Optimization Problem. Retrieved from https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-363180
+'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
