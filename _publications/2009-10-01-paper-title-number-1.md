@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper aims to optimize service operations while incorporating the MNL choice model'
 date: 2024-12-18
-venue: 'A choice-based optimization approach for service operations in multimodal mobility systems'
+venue: 'Transportation Research Part C'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0968090X24004753?via%3Dihub'
 citation: 'Haoye Chen, Jan Kronqvist, Zhenliang Ma, A choice-based optimization approach for service operations in multimodal mobility systems, Transportation Research Part C: Emerging Technologies, Volume 171, 2025, 104954, ISSN 0968-090X, https://doi.org/10.1016/j.trc.2024.104954.'
 ---
