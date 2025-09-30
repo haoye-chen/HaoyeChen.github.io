@@ -1,10 +1,10 @@
 ---
 title: "A choice-based optimization approach for service operations in multimodal mobility systems"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2025-02
 venue: 'A choice-based optimization approach for service operations in multimodal mobility systems'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0968090X24004753?via%3Dihub'
 citation: 'Haoye Chen, Jan Kronqvist, Zhenliang Ma, A choice-based optimization approach for service operations in multimodal mobility systems, Transportation Research Part C: Emerging Technologies, Volume 171, 2025, 104954, ISSN 0968-090X, https://doi.org/10.1016/j.trc.2024.104954.'
