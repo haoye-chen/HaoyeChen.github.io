@@ -2,12 +2,12 @@
 title: "Operation and charging optimization for electric multimodal mobility system"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://www.sciencedirect.com/science/article/pii/S1366554526002383
 excerpt: 'This paper optimizes the integration between MoD service operations and PT services.'
-date: 2025-05-07
-venue: 'Under review'
-paperurl: 'https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1956830&dswid=-8258'
-citation: 'Chen, H., Herring-Calvo, G., Antoniou, C., Burghout, W., & Ma, Z. (n.d.). Operation and charging optimization for electric multimodal mobility system. Retrieved from https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-363186
+date: 2026-04-20
+venue: 'Published'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1366554526002383'
+citation: 'Haoye Chen, Jan Kronqvist, Giancarlo Herring-Calvo, Constantinos Antoniou, Wilco Burghout, Zhenliang Ma, Operation and charging optimization for electric multimodal mobility system, Transportation Research Part E: Logistics and Transportation Review, Volume 212, 2026, 104899, ISSN 1366-5545, https://doi.org/10.1016/j.tre.2026.104899.
 '
 ---
 
