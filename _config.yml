@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Haoye Chen / Introduction"
 title_separator          : "-"
 name                     : &name "Haoye"
-description              : &description "Learn me a bit more"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD student at KTH Royal Institute of Technology, Sweden"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://haoye-chen.github.io/HaoyeChen.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Haoye Chen"
   pronouns         : "Mr."  
-  bio              : "I want good food"
+  bio              : "INFJ"
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Institute of Technology"
   uri              : # URL
