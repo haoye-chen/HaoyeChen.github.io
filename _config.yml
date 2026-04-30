@@ -25,7 +25,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haoye Chen"
-  pronouns         : "Mr."  
   bio              : "INFJ"
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Institute of Technology"
@@ -215,10 +214,10 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: false
