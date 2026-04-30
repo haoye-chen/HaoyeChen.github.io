@@ -3,7 +3,7 @@ title: "Integrated Operation and Charging Controls for Ride-Sharing Electric Aut
 collection: publications
 category: manuscripts
 permalink: https://ieeexplore.ieee.org/abstract/document/11319350
-excerpt: 'A network flow model for ride-sharing electric mobility-on-demand system'
+excerpt: 'An expanded network flow model for ride-sharing electric mobility-on-demand system'
 date: 2025-12-25
 venue: 'Journal of Intelligent and Connected Vehicles'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11319350'
