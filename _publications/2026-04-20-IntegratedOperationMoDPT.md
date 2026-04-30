@@ -3,7 +3,7 @@ title: "Operation and charging optimization for electric multimodal mobility sys
 collection: publications
 category: manuscripts
 permalink: https://www.sciencedirect.com/science/article/pii/S1366554526002383
-excerpt: 'This paper optimizes the integration between MoD service operations and PT services.'
+excerpt: 'Build a large-scale expanded network with total unimodularity for integrated mobility-on-demand and public transport services.'
 date: 2026-04-20
 venue: 'Transportation Research Part E'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1366554526002383'
